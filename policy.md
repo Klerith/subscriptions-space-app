@@ -18,9 +18,10 @@ This policy establishes the terms and conditions for using our proprietary appli
 
 ## 4. Privacy and Data
 
-- We collect only the data necessary for the application's functionality.
-- User data is handled with complete transparency.
-- We do not share personal information with third parties without explicit consent.
+- We do not collect any user data or personal information.
+- All user data and information is stored locally on your device.
+- No data is transmitted to external servers or third parties.
+- You are solely responsible for backing up your local data.
 
 ## 5. Limitation of Liability
 
